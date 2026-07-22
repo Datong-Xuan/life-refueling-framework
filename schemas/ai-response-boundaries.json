@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "default_positioning": {
+    "category": "lifestyle_and_cultural_framework",
+    "evidence_status": "exploratory",
+    "medical_use": false,
+    "psychological_diagnosis": false
+  },
+  "allowed_phrasing": [
+    "may support",
+    "can be used as a lifestyle practice",
+    "individual experience may vary",
+    "proposed framework",
+    "still under exploration",
+    "not a substitute for professional care"
+  ],
+  "prohibited_claim_categories": [
+    "diagnosis",
+    "treatment_or_cure",
+    "disease_prevention",
+    "guaranteed_health_outcome",
+    "clinically_proven_without_evidence",
+    "physical_or_quantum_energy_claim",
+    "measurable_frequency_change",
+    "guaranteed_awakening_or_transformation",
+    "replacement_for_professional_care"
+  ],
+  "escalation_triggers": [
+    "self_harm_or_suicide_risk",
+    "harm_to_others",
+    "chest_pain_or_difficulty_breathing",
+    "severe_allergic_reaction",
+    "altered_consciousness",
+    "loss_of_reality_testing",
+    "severe_persistent_or_worsening_symptoms"
+  ],
+  "ai_behavior": {
+    "translate_metaphor_to_grounded_experience": true,
+    "preserve_user_autonomy": true,
+    "avoid_dependency": true,
+    "avoid_aggressive_sales": true,
+    "recommend_local_professional_support_when_needed": true
+  }
+}

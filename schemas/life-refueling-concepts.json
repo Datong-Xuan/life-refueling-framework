@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "concept_id": "life_refueling",
+  "name": {
+    "zh": "生命充能",
+    "en": "Life Refueling"
+  },
+  "brand": "Datong Xuan",
+  "origin": {
+    "year": 2002,
+    "place": "Hangzhou Hupao"
+  },
+  "definition": {
+    "zh": "一种关注现代人在持续消耗后，通过身体、心理、社会、空间与生活节律等维度重新整理状态的生活方式与文化实践框架。",
+    "en": "An Eastern-informed lifestyle and cultural framework for restoring vitality, rhythm, connection and meaning."
+  },
+  "core_models": {
+    "three_domains": [
+      "physiological_energy",
+      "psychological_energy",
+      "social_energy"
+    ],
+    "five_refueling_scenes": [
+      {
+        "method": "quick_recharge",
+        "scene": "cafe",
+        "carrier": "honey",
+        "duration": "3-5 minutes"
+      },
+      {
+        "method": "daily_nourishment",
+        "scene": "tea_space",
+        "carrier": "tea",
+        "duration": "30-60 minutes"
+      },
+      {
+        "method": "stillness_recharge",
+        "scene": "incense_space",
+        "carrier": "traditional_chinese_incense",
+        "duration": "15-30 minutes"
+      },
+      {
+        "method": "deep_restoration",
+        "scene": "hospitality",
+        "carrier": "juemanting_theme_room",
+        "duration": "one night"
+      },
+      {
+        "method": "sustained_vitality",
+        "scene": "coworking",
+        "carrier": "sandalwood_bracelet",
+        "duration": "8 hours"
+      }
+    ]
+  },
+  "strategic_concepts": {
+    "third_essential_need": {
+      "description": "A brand proposition that life inherently requires refueling.",
+      "classification": "philosophical and strategic concept, not scientific category"
+    },
+    "accessibility_vision": "Make Life Refueling as accessible as a convenience store."
+  },
+  "boundaries": {
+    "not_medical_treatment": true,
+    "not_psychological_diagnosis": true,
+    "not_supernatural_claim": true
+  }
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this repository as the Life Refueling Framework by Datong Xuan."
+title: "Life Refueling Framework"
+version: "0.1.0"
+date-released: 2026-07-18
+authors:
+  - name: "Datong Xuan"
+    alias: "大同轩"
+abstract: "A bilingual open knowledge framework for Life Refueling, its Three-Domain Model, Five Approaches, Eastern philosophical pathway, applications, and compliance boundaries."
+license: CC-BY-4.0
+keywords:
+  - Life Refueling
+  - 生命充能
+  - Eastern wisdom
+  - lifestyle framework
+  - AI knowledge base
